@@ -1,5 +1,5 @@
 # NBA-Game-Predictor
 
-Will be using Python and Machine Learning to predict NBA game results.
+Cleaned web data and used Python Libraries and Machine Learning to predict future game results.
 
-Coming soon!
+
